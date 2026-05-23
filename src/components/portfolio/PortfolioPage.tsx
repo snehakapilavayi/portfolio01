@@ -61,12 +61,12 @@ const SERVICES = [
   {
     n: "05",
     name: "Creative Tech & Experiments",
-    d: "Hackathons, AI experiments, and student startup ideas — turning curiosity into shipped, real, working prototypes.",
+    d: "Hackathons, AI experiments, and student startup ideas turning curiosity into shipped, real, working prototypes.",
   },
   {
     n: "06",
     name: "Content Writing",
-    d: "Writing sharp, research-backed pieces on startups, business models, and the ideas that move fast — because good thinking deserves good words.",
+    d: "Writing sharp, research-backed pieces on startups, business models, and the ideas that move fast  because good thinking deserves good words.",
   },
 ];
 
@@ -76,29 +76,29 @@ const WRITINGS = [
     title: "Speed Is a Strategy",
     subtitle: "A deep dive into Snitch — the D2C brand that turned 30-day manufacturing cycles into a ₹900 crore business.",
     tag: "Business Analysis",
-    body: `I spent three hours looking into a menswear brand called Snitch. What caught my attention was not the clothes — it was how fast they work.
+    body: `I spent three hours looking into a menswear brand called Snitch. What caught my attention was not the clothes. It was how fast they work.
 
 Snitch started in 2020 with 35 products and 4 employees. Now it makes around ₹900 crore in revenue, grows by 80% every year, and ships 35,000 garments daily across India.
 
 What makes Snitch different is its speed. Brands like Zara and H&M can take months to launch collections. Snitch can design, make and deliver products in 30 days. They work with 40 factories, which helps them quickly turn trends into products before they become outdated.
 
-Snitch also has low inventory waste — only 3–4%, compared to the industry average of 20–30%. This is not just luck; it's a system built around being fast.
+Snitch also has low inventory waste only 3–4%, compared to the industry average of 20–30%. This is not just luck; it's a system built around being fast.
 
 Being fast has its downsides. Many customers complain about quality, sizing issues and problems with refunds. Their resale platform, Relove, also seems a bit contradictory for a brand that launches eight styles every day.
 
-So what I learnt from Snitch is simple: Speed is a strategy. It is not an advantage — it is a whole business model. Snitch did not win because they had the prettiest clothes. They won because while everyone else was planning, they were already making things happen.
+So what I learnt from Snitch is simple: Speed is a strategy. It is not an advantage  it is a whole business model. Snitch did not win because they had the prettiest clothes. They won because while everyone else was planning, they were already making things happen.
 
-The lesson is not that Snitch is perfect. The lesson is that in fashion — and in business — speed is the last big advantage left.`,
+The lesson is not that Snitch is perfect. The lesson is that in fashion, and in business, speed is the last big advantage left.`,
     readTime: "3 min read",
   },
   {
     n: "02",
     title: "Sometimes Stopping Is the Right Move",
-    subtitle: "What a 30-day startup challenge taught me about understanding problems before building solutions.",
+    subtitle: "What a 30 day startup challenge taught me about understanding problems before building solutions.",
     tag: "Reflection",
     body: `Trying a 30-day startup challenge taught me something important. I stopped at Day 5. Not because I lost interest, but because of the problem I chose to work on.
 
-I wanted to explore a solution around how children today are getting exposed to mobile phones, short-form content, and social media addiction at a very early age — and how deeply it affects their focus, emotions, behavior, and even the people around them.
+I wanted to explore a solution around how children today are getting exposed to mobile phones, short-form content, and social media addiction at a very early age  and how deeply it affects their focus, emotions, behavior, and even the people around them.
 
 At first, I thought I could build something quickly. But as I kept researching and documenting the process, I realised this problem has much more depth than I initially imagined.
 
@@ -108,7 +108,7 @@ And honestly, I don't think this is something that should be approached superfic
 
 Sometimes stopping is not failure. Sometimes it means you finally understood the weight of the problem you're trying to solve.
 
-The Day 0–5 videos are on my Instagram: @snehakapilavayi.07`,
+The Day 0–5 videos are on my Instagram.`,
     readTime: "2 min read",
   },
 ];
@@ -184,7 +184,7 @@ function HeroSection() {
               className="font-light uppercase tracking-[0.15em] leading-relaxed max-w-xs text-center sm:text-left"
               style={{ color: "#D7E2EA", fontSize: "clamp(0.75rem, 1vw, 0.95rem)" }}
             >
-              B.Tech IT student · AI Web Dev · Video Editor · Content Writer · Startup Explorer.
+              Web Developer • Content Creator • Problem Solver
             </p>
           </FadeIn>
           <FadeIn delay={0.5} y={20}>
@@ -275,7 +275,9 @@ function AboutSection() {
           </div>
           <div className="lg:col-span-7 lg:col-start-6 flex flex-col gap-10">
             <AnimatedText
-              text="I'm Sneha — a first-year B.Tech IT student at Vishnu Institute of Technology. I build AI web apps, write about startups and ideas that move fast, edit videos with a cinematic eye, and explore the edges of creative technology. I'm into business thinking, content strategy, and shipping things that feel real."
+              text="I'm a student who enjoys building things for the web and creating content around ideas I find interesting. I work with web development, design, content writing, video editing, and creative tech experiments while learning through real projects.
+I don’t follow a fixed path. I like exploring different areas and improving by actually building and trying things out.
+Right now, I’m open to work and projects where I can learn and contribute."
               className="font-light leading-relaxed"
               style={{ color: "#D7E2EA", fontSize: "clamp(1.1rem, 1.8vw, 1.5rem)" }}
             />
@@ -508,7 +510,7 @@ function Footer() {
         </div>
         <div className="flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between pt-8">
           <div style={{ color: "#D7E2EA" }} className="text-xs uppercase tracking-[0.2em] opacity-60">
-            © {new Date().getFullYear()} Sneha Kapilavayi — All Rights Reserved
+            © {new Date().getFullYear()} Content Writer by choice. Developer by accident.
           </div>
           <div className="flex gap-8 text-xs uppercase tracking-[0.2em]" style={{ color: "#D7E2EA" }}>
             <a href="https://youtube.com/@thesnehafiles07?si=qLrC1tmZWNf8RTgc" target="_blank" rel="noopener noreferrer" className="hover:opacity-60 transition-opacity">YouTube</a>
