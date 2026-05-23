@@ -510,7 +510,7 @@ function Footer() {
         </div>
         <div className="flex flex-col sm:flex-row gap-6 items-start sm:items-center justify-between pt-8">
           <div style={{ color: "#D7E2EA" }} className="text-xs uppercase tracking-[0.2em] opacity-60">
-            © {new Date().getFullYear()} Content Writer by choice. Developer by accident.
+            © {new Date().getFullYear()} Content Creator by choice. Developer by accident.
           </div>
           <div className="flex gap-8 text-xs uppercase tracking-[0.2em]" style={{ color: "#D7E2EA" }}>
             <a href="https://youtube.com/@thesnehafiles07?si=qLrC1tmZWNf8RTgc" target="_blank" rel="noopener noreferrer" className="hover:opacity-60 transition-opacity">YouTube</a>
