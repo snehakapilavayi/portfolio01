@@ -40,7 +40,7 @@ const MARQUEE = [
 const SERVICES = [
   {
     n: "01",
-    name: "AI Web Applications",
+    name: "Web Applications",
     d: "Designing and building dynamic, AI-assisted web experiences that blend storytelling, creativity, and intuitive interfaces.",
   },
   {
@@ -74,7 +74,7 @@ const WRITINGS = [
   {
     n: "01",
     title: "Speed Is a Strategy",
-    subtitle: "A deep dive into Snitch — the D2C brand that turned 30-day manufacturing cycles into a ₹900 crore business.",
+    subtitle: "A deep dive into Snitch the D2C brand that turned 30-day manufacturing cycles into a ₹900 crore business.",
     tag: "Business Analysis",
     body: `I spent three hours looking into a menswear brand called Snitch. What caught my attention was not the clothes. It was how fast they work.
 
@@ -117,26 +117,26 @@ const PROJECTS = [
   {
     n: "01",
     name: "Swap Space",
-    cat: "AI Web App",
+    cat: "Market Place",
     url: "https://swapspace-three.vercel.app/",
   },
   {
     n: "02",
     name: "Mood Note",
-    cat: "Personal",
+    cat: "Mental Wellness",
     url: "https://mood-note-zeta.vercel.app/",
   },
   {
     n: "03",
     name: "Ritva X",
-    cat: "Experiment",
+    cat: "productivity",
     url: "https://github.com/snehakapilavayi",
     underProgress: true,
   },
   {
     n: "04",
-    name: "Paisa — Student Expense Tracker",
-    cat: "Productivity",
+    name: "FinTech",
+    cat: "",
     url: "https://github.com/snehakapilavayi",
     underProgress: true,
   },
@@ -184,7 +184,7 @@ function HeroSection() {
               className="font-light uppercase tracking-[0.15em] leading-relaxed max-w-xs text-center sm:text-left"
               style={{ color: "#D7E2EA", fontSize: "clamp(0.75rem, 1vw, 0.95rem)" }}
             >
-              Web Developer • Content Creator • Problem Solver
+              Content Creator • Web Developer • Problem Solver
             </p>
           </FadeIn>
           <FadeIn delay={0.5} y={20}>
@@ -275,7 +275,7 @@ function AboutSection() {
           </div>
           <div className="lg:col-span-7 lg:col-start-6 flex flex-col gap-10">
             <AnimatedText
-              text="I'm a student who enjoys building things for the web and creating content around ideas I find interesting. I work with web development, design, content writing, video editing, and creative tech experiments while learning through real projects.
+              text="I'm a first year BTech student who enjoys building things for the web and creating content around ideas I find interesting. I work with web development, design, content writing, video editing, and creative tech experiments while learning through real projects.
 I don’t follow a fixed path. I like exploring different areas and improving by actually building and trying things out.
 Right now, I’m open to work and projects where I can learn and contribute."
               className="font-light leading-relaxed"
