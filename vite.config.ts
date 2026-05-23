@@ -12,7 +12,7 @@ export default defineConfig(({ command }) => {
       tailwindcss(),
       tanstackStart({
         server: {
-          preset: "vercel" 
+          preset: "netlify" 
         },
       }),
       react(),
