@@ -111,6 +111,30 @@ Sometimes stopping is not failure. Sometimes it means you finally understood the
 The Day 0–5 videos are on my Instagram.`,
     readTime: "2 min read",
   },
+  {
+  n: "03",
+  title: "Rejection Isn't the End",
+  subtitle: "What Pizza Galleria's Shark Tank rejection taught me about determination, ignorance, and the loudest kind of launch.",
+  tag: "Inspiration",
+  body: `I recently came across a brand that was rejected by the Sharks on Shark Tank India Season 3 and is still doing incredibly well.
+
+The brand is Pizza Galleria aA100% vegetarian pizza brand from Haryana.
+
+But what actually shook me wasn't the numbers. It was the determination of the founder. The day co-founders Sandeep Jangra and Ishan Chugh got rejected on national TV, the first thing Sandeep did was Google "gross profit." That determination has inspired me a lot.
+
+The Sharks rejected them not because the taste was bad. In fact, the Sharks loved the pizza. They rejected them because Sandeep couldn't clearly explain the difference between monthly and annual profits during the pitch. That created a trust deficit. And the deal was gone.
+
+But here's what makes his story different. Sandeep tried pizza for the very first time as a working adult while employed at a company in Gurgaon. He loved the taste. And instead of having another slice, he thought — why doesn't my hometown have this?
+
+An entrepreneur's mindset. ofc
+
+He went back to Gohana, Haryana, a small town most pizza brands had completely ignored — and built something from scratch. He walked into Shark Tank with 30 outlets and a 4.9 Zomato rating. He left without a deal. And instead of giving up, he got back to work.
+
+Today, Pizza Galleria has 126+ outlets across India.
+
+The lesson I took from this has nothing to do with pizza. Rejection isn't the end. Sometimes it's the loudest launch you'll ever get.`,
+  readTime: "2 min read",
+},
 ];
 
 const PROJECTS = [
