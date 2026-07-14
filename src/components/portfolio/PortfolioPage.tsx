@@ -135,6 +135,26 @@ Today, Pizza Galleria has 126+ outlets across India.
 The lesson I took from this has nothing to do with pizza. Rejection isn't the end. Sometimes it's the loudest launch you'll ever get.`,
   readTime: "2 min read",
 },
+  {
+    n: "04",
+    title: "Sarvam Is Not India's ChatGPT — And That's the Point",
+    subtitle: "Why building AI for India was never about copying what already exists.",
+    tag: "AI · Startups",
+    body: `Why do we keep calling every AI company "the next ChatGPT"?
+
+Maybe Sarvam AI was never trying to be India's ChatGPT. Maybe it was trying to be something completely different.
+
+While the world was focused on building AI models that work amazingly well in English, Sarvam looked at a different challenge: how do we make AI actually understand India?
+
+A country where people don't just communicate in one language, but in Hindi, Tamil, Telugu, Bengali, Hinglish, and many other cultural contexts. Because building AI for India is not just translating words. It's understanding how people speak, ask questions, and use technology in their everyday lives.
+
+What I found interesting about Sarvam is that they didn't start with the question, "How do we copy what already exists?" They started with, "What is a problem unique to India that needs solving?"
+
+And I think that's a valuable lesson for every student building something. You don't always need to compete with the biggest companies in the world. Sometimes, the biggest opportunities are hidden in problems that others overlook. A problem that looks local today can become a global opportunity tomorrow.
+
+Sarvam is not India's ChatGPT. Sarvam is Sarvam. And maybe that's exactly what makes it interesting.`,
+    readTime: "2 min read",
+  },
 ];
 
 const PROJECTS = [
