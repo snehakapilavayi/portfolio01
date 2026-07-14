@@ -135,9 +135,9 @@ Today, Pizza Galleria has 126+ outlets across India.
 The lesson I took from this has nothing to do with pizza. Rejection isn't the end. Sometimes it's the loudest launch you'll ever get.`,
   readTime: "2 min read",
 },
-  {
+ {
     n: "04",
-    title: "Sarvam Is Not India's ChatGPT — And That's the Point",
+    title: "Sarvam AI",
     subtitle: "Why building AI for India was never about copying what already exists.",
     tag: "AI · Startups",
     body: `Why do we keep calling every AI company "the next ChatGPT"?
